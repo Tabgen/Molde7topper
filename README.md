@@ -1,5 +1,4 @@
-# Molde7topper - konsept program 
-## 20/12/2021
+# Molde7topper - konsept program - 20/12/2021
 
 ## Prosjektbeskrivelse: Python-registreringsprogram for lokalt maraton
 
