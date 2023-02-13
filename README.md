@@ -1,4 +1,5 @@
-# Molde7topper - konsept program
+# Molde7topper - konsept program 
+##20/12/2021
 
 ##Prosjektbeskrivelse: Python-registreringsprogram for lokalt maraton
 
@@ -10,7 +11,8 @@ p Målet med dette prosjektet er å utvikle et Python-basert registreringsprogra
 
 ###Features:
 
-    * Programmet skal ha en registreringsprosess som krever at deltakerne oppgir personlig informasjon, inkludert navn, alder, kjønn, klasse og distanse.
+    * Programmet skal ha en påmeldingssystem.
+    * Påmeldingssystemet skal registerere navn, alder, kjønn, klubb, klasse og distanse.
     * Programmet skal kunne vise en oversikt over påmeldte.
     * Programmet skal kunne vise em oversikt over startidspunktene.
 
