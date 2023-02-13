@@ -1,2 +1,18 @@
-# Molde7topper
-Gammelt python prosjekt
+# Molde7topper - konsept program
+
+##Prosjektbeskrivelse: Python-registreringsprogram for lokalt maraton
+
+###Introduksjon:
+p Molde7topper er et årlig arrangement som arrangeres for løpere og treningsentusiaster i samfunnet. I dette konseptet har jeg bestemt meg for å implementere et Python-registreringsprogram for å effektivisere registreringsprosessen og administrere deltakerinformasjon mer effektivt.
+
+###Objektiv:
+p Målet med dette prosjektet er å utvikle et Python-basert registreringsprogram som lar deltakerne raskt og enkelt registrere seg for maraton. Samtidig for å test Python ferdighetene mine.
+
+###Features:
+
+    * Programmet skal ha en registreringsprosess som krever at deltakerne oppgir personlig informasjon, inkludert navn, alder, kjønn, klasse og distanse.
+    * Programmet skal kunne vise en oversikt over påmeldte.
+    * Programmet skal kunne vise em oversikt over startidspunktene.
+
+###Konklusjon:
+p Påmeldingsprogrammet for Molde7topper vil forenkle registreringsprosessen for det løpet betraktelig, noe som gjør det enklere for deltakere å melde seg på og for arrangørene å administrere arrangementet.
