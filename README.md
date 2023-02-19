@@ -15,7 +15,7 @@ Målet med dette prosjektet er å utvikle et Python-basert registreringsprogram 
 * Programmet skal ha et påmeldingssystem. 
 * Påmeldingssystemet skal registrere navn, alder, kjønn, klubb, klasse og distanse. 
 * Programmet skal kunne vise en oversikt over påmeldte. 
-* Programmet skal kunne vise em oversikt over starttidspunktene. 
+* Programmet skal kunne vise en oversikt over starttidspunktene. 
  
 
 ## Tech Stack: 
