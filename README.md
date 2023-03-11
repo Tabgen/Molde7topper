@@ -24,6 +24,6 @@ Målet med dette prosjektet er å utvikle et Python-basert registreringsprogram 
 
 ## Konklusjon
 
-Påmeldingsprogrammet for Molde7topper vil forenkle registreringsprosessen for det løpet betraktelig, noe som gjør det enklere for deltakere å melde seg på og for arrangørene å administrere arrangementet. Samtidig som jeg fikk utvikle Python ferdighetene mine. 
+Påmeldingsprogrammet for Molde7topper vil forenkle registreringsprosessen for det løpet betraktelig, noe som gjør det enklere for deltakere å melde seg på og for arrangører å administrere arrangementet. Samtidig som jeg fikk utvikle Python ferdighetene mine. 
 
  
